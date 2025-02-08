@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-shopping-cart
 
-  portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+  Subjects:
+    title: "Subjects Taught"
+    text: "GCSE Subjects currently offered"
+    section: Subjects
     closebutton: "Close Project"
 
   timeline:
