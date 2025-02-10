@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   Subjects:
     title: "Subjects Taught"
-    text: "GCSE Subjects currently offered"
+    text: "GCSE Subjects we currently offer"
     section: Subjects
     closebutton: "Close Project"
 
