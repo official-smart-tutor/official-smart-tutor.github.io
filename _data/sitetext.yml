@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Subjects Taught"
-    text: "GCSE Subjects we currently offer"
+    text: "GCSE Subjects we specialise in teaching"
     section: portfolio
     closebutton: "Close Project"
 
