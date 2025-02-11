@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Subjects Taught"
     text: "GCSE Subjects we specialise in teaching"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Page"
 
   timeline:
     title: "Timeline"
