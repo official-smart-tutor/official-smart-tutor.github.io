@@ -1,12 +1,12 @@
 ---
 title: Biology
-subtitle: The most content heavy science
+subtitle: The most content heavy science...
 image: assets/img/portfolio/01-full.jpg
 alt: Biology
 
 caption:
   title: Biology
-  subtitle: Content heavy
+  subtitle: Content heavy...
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Our experienced tutors specialise in making complex biological concepts easy to understand by breaking them down into clear, manageable steps. We don’t just teach - we ensure students retain what they learn through highly effective revision techniques, including active recall and spaced repetition.
