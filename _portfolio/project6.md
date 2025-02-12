@@ -9,10 +9,8 @@ caption:
   subtitle: What else we offer...
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Additional subjects we offer:
+- NA
 
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
-
+Currently we aren't offering any additional subjects.
+If you're interesting in getting tutored for another subject that we don't currently offer, please send us an enquiry and we'll try our best to see if we can get a tutor for you!
