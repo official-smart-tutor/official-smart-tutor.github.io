@@ -25,8 +25,8 @@ en: &DEFAULT_EN
         desc: "High quality, personalised tutoring targeting student's weak areas to help them achieve the best grades."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Small Group teaching"
-        desc: "Recieve the same tutoring alongside other bright students at a reduced rate."
-        icon: fas fa-people-group
+        desc: "Recieve the same tutoring alongside other students at a reduced rate."
+        icon: fas faPeopleGroup
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-shopping-cart
