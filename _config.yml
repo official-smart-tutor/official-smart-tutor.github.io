@@ -19,7 +19,7 @@ baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Smart Tutor
 email      : official.smart.tutor@gmail.com #this is also the email contact forms will go to
-description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+description: "Smart Tutor - we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students study smarter, not harder, so they can achieve their best results with confidence."
 author     : Hazeem Ahmad
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
