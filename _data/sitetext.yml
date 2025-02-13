@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   #timeline:
     #title: "Timeline"
     #text: "Lorem ipsum timeline"
-    section: timeline
+    #section: timeline
     # left is the default
     #start_align: "left"
     events:
