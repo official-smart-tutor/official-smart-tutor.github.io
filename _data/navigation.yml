@@ -10,12 +10,12 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
+  start_align: "right"
   nav:
     - #title: "Timeline"
       #section: timeline
     - #title: "Team"
       #section: team
-     start_align: "right"
     - title: "Services"
       section: services
     - title: "Subjects"
