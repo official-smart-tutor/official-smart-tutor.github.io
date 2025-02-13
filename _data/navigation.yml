@@ -15,6 +15,7 @@ en: &DEFAULT_EN
       #section: timeline
     - #title: "Team"
       #section: team
+     start_align: "right"
     - title: "Services"
       section: services
     - title: "Subjects"
