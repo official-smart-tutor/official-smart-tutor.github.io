@@ -73,7 +73,6 @@ en: &DEFAULT_EN
     text: "Why choose us?"
     body: "At Smart Tutor, we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students study smarter, not harder, so they can achieve their best results with confidence."
     section: about
-  end:
 
   #clients:
     #section: clients
