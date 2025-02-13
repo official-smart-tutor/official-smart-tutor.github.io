@@ -37,6 +37,12 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Page"
 
+  about:
+    title: "About Us"
+    text: "Why choose us?"
+    body: "At Smart Tutor, we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students study smarter, not harder, so they can achieve their best results with confidence."
+    section: about
+
   #timeline:
     #title: "Timeline"
     #text: "Lorem ipsum timeline"
@@ -67,12 +73,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         #align: right
     #end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "Why choose us?"
-    body: "At Smart Tutor, we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students study smarter, not harder, so they can achieve their best results with confidence."
-    section: about
 
   #clients:
     #section: clients
