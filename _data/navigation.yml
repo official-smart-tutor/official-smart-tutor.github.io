@@ -10,7 +10,6 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  start_align: "right"
   nav:
     - #title: "Timeline"
       #section: timeline
