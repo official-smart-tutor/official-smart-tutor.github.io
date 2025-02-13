@@ -11,6 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
+    - #title: "Timeline"
+      #section: timeline
+    - #title: "Team"
+      #section: team
     - title: "Services"
       section: services
     - title: "Subjects"
@@ -19,10 +23,6 @@ en: &DEFAULT_EN
       section: about
     - title: "Contact"
       section: contact
-    - #title: "Timeline"
-      #section: timeline
-    - #title: "Team"
-      #section: team
 
     - #title: "Theme Source"
       #url: https://github.com/raviriley/agency-jekyll-theme/
