@@ -66,12 +66,14 @@ en: &DEFAULT_EN
         #alt:
         # you can enforce the alignment
         #align: right
-    #end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of Our <br> Story!"
+  
   about:
     title: "About Us"
     text: "Why choose us?"
     body: "At Smart Tutor, we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students study smarter, not harder, so they can achieve their best results with confidence."
     section: about
+  
   #clients:
     #section: clients
     #max-height: 100px
@@ -89,6 +91,7 @@ en: &DEFAULT_EN
       #- title: "Creative Market"
         #url: https://github.com/raviriley/agency-jekyll-theme
         #logo: assets/img/clients/creative-market.jpg
+  
   #team:
     #title: "OUR AMAZING TEAM"
     #text: "Lorem ipsum dolor sit amet consectetur."
@@ -125,6 +128,7 @@ en: &DEFAULT_EN
             #icon: fab fa-facebook-f
           #- url: https://linkedin.com
             #icon: fab fa-linkedin-in
+  
   contact:
     title: "Contact Us"
     text: "We typically respond within 24 hours"
