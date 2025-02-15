@@ -38,8 +38,6 @@ en: &DEFAULT_EN
     closebutton: "Close Page"
 
   timeline:
-    title: "Timeline"
-    section: timeline
 
   
   about:
