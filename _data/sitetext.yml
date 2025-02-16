@@ -93,9 +93,15 @@ en: &DEFAULT_EN
         #logo: assets/img/clients/creative-market.jpg
   
   team:
-    title: "FAQs (Frequently Asked Questions)"
-    text: "•	Who are your lessons for? (GCSE Biology & Chemistry students - both foundation & higher.) <br> 	•	How do the lessons work? (Online via Zoom, 1-to-1 interactive learning.) <br> •	What do I need for the lessons? (A stable internet connection, a notebook, and a willingness to learn!) <br> 	•	Do you provide past paper practice? (Yes, I incorporate exam-style questions to help students prepare!)"
-    section: team
+    title: "FAQs"
+    question: "Who are your lessons for?"
+    answer: "Our lessons are designed for students in Years 7 to 11. Whether you're looking to get a head start on the curriculum or refine your exam technique, these sessions are tailored to help students of all levels to achieve their full potential."
+    question: "How do the lessons work?"
+    answer: "Lessons are online via teams, in a 1-to-1 or group format, focusing on exam preparation."
+    question: "What do I need for the lessons?"
+    answer: "A stable internet connection, a notebook, and enthusiasm for learning!"
+    question: "Do you provide past paper practice?"
+    answer: "Yes! We use exam-style questions & past papers to boost confidence and performance."
 
   contact:
     title: "Contact Us"

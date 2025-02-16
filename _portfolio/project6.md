@@ -10,7 +10,6 @@ caption:
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
 Additional subjects we offer:
-- NA
 
 Currently we aren't offering any additional subjects.
 
