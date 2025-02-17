@@ -39,36 +39,26 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Our Tutors"
-    events:
-      - desc: All our tutors have achieved top grades in their GCSEs and A-Levels and have experience in tutoring students of all levels. <br> They are passionate about helping students achieve their full potential and are dedicated to providing the best support possible. <br> Our tutors teach by using a range of resources and techniques to ensure that students understand the content and are able to apply their knowledge effectively. They also provide homework to consolidate learning and increase retention.
+    text: "Know the Team"
     section: timeline
-    
     # left is the default
-    #start_align: "left"
-    #events:
-      #- title: "Our Humble Beginnings"
-        #year: "2009-2011"
-        #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        #image: assets/img/timeline/1.jpg
-        #alt:
-      #- title: "An Agency is Born"
-        #year: "March 2011"
-        #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        #image: assets/img/timeline/2.jpg
-        #alt:
-      #- title: "Jekyll Theme is created"
-        #year: "2019"
-        #desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        #image: assets/img/timeline/3.jpg
-        #alt: image alt text
-     # - title: "Title"
-        #year: "2009-2011"
-        #desc: "Your description here, **Markdown** is fully supported."
-        #image: assets/img/timeline/4.jpg
-        #alt:
-        # you can enforce the alignment
-        #align: right
-    #end: "Be Part <br> of Our <br> Story!"
+    # start_align: "left"
+    events:
+      - desc: "All our tutors have achieved top grades in their GCSEs and A-Levels and have experience in tutoring students of all levels."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - desc: "They are passionate about helping students achieve their full potential and are dedicated to providing the best support possible."
+        image: assets/img/timeline/2.jpg
+        alt:
+      - desc: "Our tutors teach by using a range of resources and techniques to ensure that students understand the content and are able to apply their knowledge effectively."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - desc: "They also provide homework to consolidate learning and increase retention."
+        image: assets/img/timeline/4.jpg
+        alt:
+        #you can enforce the alignment
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
   
   about:
     title: "About Us"
