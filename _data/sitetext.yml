@@ -104,6 +104,7 @@ en: &DEFAULT_EN
          "A stable internet connection, a notebook, and enthusiasm for learning!"
       -  "**Do you provide past paper practice?**"
          "Yes! We use exam-style questions & past papers to boost confidence and performance."
+    section: team
 
   contact:
     title: "Contact Us"
