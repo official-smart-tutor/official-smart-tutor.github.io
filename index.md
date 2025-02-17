@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<section id="faqs">
+<section id="team">
   <h2>{{ site.data.ui-text[site.locale].team.title }}</h2>
   <div class="faq-list">
     {% for faq in site.data.ui-text[site.locale].team.text %}
