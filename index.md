@@ -2,10 +2,9 @@
 layout: home
 ---
 
-## FAQs
-
+<h2>FAQs</h2>
+<ul>
 {% for faq in site.data.sitetext.team.text %}
-- **{{ faq.question }}**  
-  {{ faq.answer }}
-
+  <li><strong>{{ faq.question }}</strong><br>{{ faq.answer }}</li>
 {% endfor %}
+</ul>
