@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Our Tutors"
-    subtext: |
+    end: |
      All our tutors have achieved top grades in their GCSEs and A-Levels and have experience in tutoring students of all levels. <br>
      They are passionate about helping students achieve their full potential and are dedicated to providing the best support possible. <br>
      Our tutors teach by using a range of resources and techniques to ensure that students understand the content and are able to apply their knowledge effectively. They also provide homework to consolidate learning and increase retention.
