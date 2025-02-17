@@ -27,8 +27,8 @@ en: &DEFAULT_EN
       - title: "Small Group teaching"
         desc: "Recieve the same tutoring alongside other students at a reduced rate."
         icon: fas faPeopleGroup
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Study Skills & Revision Coaching"
+        desc: "Teaching students effective study habits, note-taking, and memory techniques. Offered in one-to-one tutoring."
         icon: fas fa-shopping-cart
 
   portfolio:
@@ -44,16 +44,20 @@ en: &DEFAULT_EN
     # left is the default
     # start_align: "left"
     events:
-      - desc: "All our tutors have achieved top grades in their GCSEs and A-Levels and have experience in tutoring students of all levels."
+      - title: "Capable"
+        desc: "All our tutors have achieved top grades in their GCSEs and A-Levels and have experience in tutoring students of all levels."
         image: assets/img/timeline/1.jpg
         alt:
-      - desc: "They are passionate about helping students achieve their full potential and are dedicated to providing the best support possible."
+      - title: "Passionate"
+        desc: "They are passionate about helping students achieve their full potential and are dedicated to providing the best support possible."
         image: assets/img/timeline/2.jpg
         alt:
-      - desc: "Our tutors teach by using a range of resources and techniques to ensure that students understand the content and are able to apply their knowledge effectively."
+      - title: "Effective"
+        desc: "Our tutors teach by using a range of resources and techniques to ensure that students understand the content and are able to apply their knowledge effectively."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - desc: "They also provide homework to consolidate learning and increase retention."
+      - title: "Supportive"
+        desc: "They also provide homework to consolidate learning and increase retention."
         image: assets/img/timeline/4.jpg
         alt:
         #you can enforce the alignment
