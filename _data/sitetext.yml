@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Small Group teaching"
         desc: "Recieve the same tutoring alongside other students at a reduced rate."
         icon: fas faPeopleGroup
-      - title: "Study Skills & Revision Coaching"
+      - title: "Revision Coaching"
         desc: "Teaching students effective study habits, note-taking, and memory techniques. Offered in one-to-one tutoring."
         icon: fas fa-shopping-cart
 
