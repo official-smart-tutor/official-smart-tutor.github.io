@@ -2,10 +2,10 @@
 layout: home
 ---
 
-## Frequently Asked Questions
+## FAQs
 
 {% for faq in site.data.sitetext.team.text %}
-### **{{ faq.question }}**
-{{ faq.answer }}
+- **{{ faq.question }}**  
+  {{ faq.answer }}
 
 {% endfor %}
