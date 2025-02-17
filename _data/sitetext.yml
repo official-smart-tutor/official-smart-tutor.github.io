@@ -96,13 +96,13 @@ en: &DEFAULT_EN
     title: "FAQs"
     text: "Frequently Asked Questions"
     subtext: |
-      "**Who are your lessons for?**"
-      "Our lessons are designed for students in Years 7 to 11. Whether you're looking to get a head start on the curriculum or refine your exam technique, these sessions are tailored to help students of all levels to achieve their full potential."
-      "**How do the lessons work?**"
-      "Lessons are online via teams, in a 1-to-1 or group format, focusing on exam preparation."
-      "**What do I need for the lessons?**"
-      "A stable internet connection, a notebook, and enthusiasm for learning!"
-      "**Do you provide past paper practice?**"
+      "**Who are your lessons for?**" <br>
+      "Our lessons are designed for students in Years 7 to 11. Whether you're looking to get a head start on the curriculum or refine your exam technique, these sessions are tailored to help students of all levels to achieve their full potential." <br>
+      "**How do the lessons work?**" <br>
+      "Lessons are online via teams, in a 1-to-1 or group format, focusing on exam preparation." <br>
+      "**What do I need for the lessons?**" <br>
+      "A stable internet connection, a notebook, and enthusiasm for learning!" <br>
+      "**Do you provide past paper practice?**" <br>
       "Yes! We use exam-style questions & past papers to boost confidence and performance."
     section: team
 
