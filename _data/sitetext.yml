@@ -95,7 +95,7 @@ en: &DEFAULT_EN
   team:
     title: "FAQs"
     text: "Frequently Asked Questions"
-    role: |
+    subtext: |
       "**Who are your lessons for?**"
       "Our lessons are designed for students in Years 7 to 11. Whether you're looking to get a head start on the curriculum or refine your exam technique, these sessions are tailored to help students of all levels to achieve their full potential."
       "**How do the lessons work?**"
