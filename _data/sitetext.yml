@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         alt:
         #you can enforce the alignment
         align: right
-    end: "<br> Work Smart <br> Not Hard!"
+    end: "Work Smart <br> Not <br> Hard!"
   
   about:
     title: "About Us"
