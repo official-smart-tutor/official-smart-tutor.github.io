@@ -26,14 +26,14 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 At Smart Tutor, we take your privacy seriously. This policy explains how we collect, use, and protect your personal information when you contact us for tutoring enquiries.
 
-########What Information We Collect########
+###### What Information We Collect ######
 
 When you submit an enquiry, we may collect:
 	•	Your name
 	•	Your email address
 	•	Your phone number
 
-########How We Use Your Information########
+###### How We Use Your Information ######
 
 We use this information to:
 	•	Respond to your enquiry
@@ -42,7 +42,7 @@ We use this information to:
 
 We do not share or sell your information to third parties.
 
-########How We Store & Protect Your Data########
+###### How We Store & Protect Your Data ######
 
 Your information is stored securely and only accessed when necessary. We take reasonable security measures to protect against unauthorized access or misuse.
 
@@ -50,7 +50,7 @@ Your information is stored securely and only accessed when necessary. We take re
 
 We will keep your information for as long as you are actively receiving tutoring services. If you stop using our services, we will retain your data for up to 12 months unless you request deletion earlier.
 
-########Your Rights########
+###### Your Rights ######
 
 You have the right to:
 	•	Request a copy of your data
