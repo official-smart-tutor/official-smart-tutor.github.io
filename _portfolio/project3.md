@@ -9,10 +9,10 @@ caption:
   subtitle: Maths heavy...
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-GCSE Physics can seem daunting, but our expert tutors make it easy to understand. We break down complex topics like electric circuits, forces, and energy calculations into simple, clear explanations that students can grasp quickly.
+GCSE Physics can feel challenging, but our expert tutors simplify complex topics like circuits, forces, and energy calculations with clear explanations.
 
-But understanding the material is just the beginning. We teach proven revision techniques like active recall and spaced repetition to help students remember key concepts and apply them effectively in exams.
+We focus on proven revision techniques like active recall and spaced repetition to help students retain and apply key concepts in exams.
 
-Physics isn’t just about learning formulas — it’s about problem-solving and logical thinking. That’s why we focus on helping students master calculations, data analysis, and practical-based questions, ensuring they develop the skills needed to tackle any exam question with confidence. Our tutors also guide students in structuring their answers, using the correct terminology, and meeting mark scheme criteria; so they can pick up every mark possible.
+Physics requires problem-solving and logical thinking. We help students master calculations, data analysis, and practical questions, ensuring they develop the skills to tackle any exam question. Our tutors also guide students on answering effectively, using the right terminology, and meeting mark scheme criteria.
 
-With our personalised approach, your child will build confidence, strengthen their problem-solving abilities, and feel fully prepared to achieve top grades in GCSE Physics.
+With personalised support, your child will build confidence and be fully prepared to achieve top grades in GCSE Physics.

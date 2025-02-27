@@ -9,11 +9,11 @@ caption:
   subtitle: Tricky concepts...
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
-We know that GCSE Chemistry can feel tricky, but it doesn’t have to be. Our experienced tutors make even the most complex topics easy to understand by breaking them down into simple, clear explanations.
+We know GCSE Chemistry can be challenging, but our experienced tutors make even the most complex topics easy to understand with clear, simple explanations.
 
-But understanding the content is just the first step. We also teach smart revision techniques like active recall and spaced repetition to help students remember what they’ve learned and apply it effectively in exams.
+Beyond understanding the content, we teach effective revision techniques like active recall and spaced repetition to help students retain and apply their knowledge in exams.
 
-Chemistry isn’t just about memorising facts — it’s about problem-solving and applying knowledge. That’s why we focus on balancing equations, tackling calculations, and making sense of tricky concepts, all while helping students refine their exam technique. We show them how to structure their answers, use the right terminology, and meet mark scheme criteria; so they can secure every mark possible.
+Chemistry involves problem-solving and applying knowledge, so we focus on balancing equations, tackling calculations, and clarifying tricky concepts while refining exam techniques. Our tutors guide students on how to structure their answers, use correct terminology, and meet mark scheme criteria to maximise their marks.
 
-With our personalised support, your child will build confidence, sharpen their skills, and feel fully prepared to achieve top grades in GCSE Chemistry.
+With personalised support, your child will gain confidence, sharpen their skills, and be fully prepared to achieve top grades in GCSE Chemistry.
 

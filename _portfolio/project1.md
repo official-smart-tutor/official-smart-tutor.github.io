@@ -9,8 +9,8 @@ caption:
   subtitle: Content heavy...
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Our experienced tutors specialise in making complex biological concepts easy to understand by breaking them down into clear, manageable steps. We don’t just teach - we ensure students retain what they learn through highly effective revision techniques, including active recall and spaced repetition.
+Our experienced tutors specialise in simplifying complex biological concepts by breaking them down into clear, manageable steps. We focus on helping students retain information through effective revision techniques, such as active recall and spaced repetition.
 
-To help students excel in exams, we provide targeted exam practice, focusing on individual weak areas to maximise improvement. Our tutors guide students on how to structure their answers using precise keywords and mark scheme criteria that examiners look for — helping them secure every possible mark.
+To prepare students for exams, we offer targeted practice that addresses individual weak areas, ensuring maximum improvement. Our tutors teach students how to structure answers with the key terms and mark scheme criteria examiners look for, helping them secure the best marks.
 
-With our personalised approach, your child will gain the confidence, knowledge, and exam techniques needed to achieve top grades in GCSE Biology.
+With our personalised approach, your child will gain the confidence, knowledge, and exam strategies needed to excel in GCSE Biology.
