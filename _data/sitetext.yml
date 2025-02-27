@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "One-to-one Tutoring"
-        desc: "High quality, personalised tutoring targeting students' areas of development to help them achieve the best grades.
+        desc: "High quality, personalised tutoring targeting students' areas of development to help them achieve the best grades."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Small Group teaching"
         desc: "Receive the same high-quality tutoring in a collaborative group setting at a more competitive rate compared to one-on-one sessions.."
