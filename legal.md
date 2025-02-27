@@ -36,9 +36,9 @@ When you submit an enquiry, we may collect:
 ###### How We Use Your Information ######
 
 We use this information to:
-	•	Respond to your enquiry
-	•	Provide details about our tutoring services
-	•	Follow up regarding potential lessons
+	•	Respond to your enquiry <br>
+	•	Provide details about our tutoring services <br>
+	•	Follow up regarding potential lessons <br>
 
 We do not share or sell your information to third parties.
 
