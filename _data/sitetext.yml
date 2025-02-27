@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Small Group teaching"
         desc: "Receive the same high-quality tutoring in a collaborative group setting at a more competitive rate compared to one-on-one sessions.."
         icon: fas fa-users
-      - title: "Revision Mentoring"
+      - title: "Revision Coaching"
         desc: "Teaching students effective study habits, note-taking, and memory techniques. Offered in one-to-one tutoring."
         icon: fas fa-book
 
