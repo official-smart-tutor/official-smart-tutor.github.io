@@ -46,7 +46,7 @@ We do not share or sell your information to third parties.
 
 Your information is stored securely and only accessed when necessary. We take reasonable security measures to protect against unauthorized access or misuse.
 
-########How Long We Keep Your Data########
+###### How Long We Keep Your Data ######
 
 We will keep your information for as long as you are actively receiving tutoring services. If you stop using our services, we will retain your data for up to 12 months unless you request deletion earlier.
 
