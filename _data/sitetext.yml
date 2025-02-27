@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Small Group teaching"
         desc: "Recieve the same tutoring alongside other students at a reduced rate."
-        icon: fas faPeopleGroup
+        icon: fas fa-users
       - title: "Revision Coaching"
         desc: "Teaching students effective study habits, note-taking, and memory techniques. Offered in one-to-one tutoring."
-        icon: fas fa-shopping-cart
+        icon: fas fa-book
 
   portfolio:
     title: "Subjects Taught"
