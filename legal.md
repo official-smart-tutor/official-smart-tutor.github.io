@@ -28,17 +28,17 @@ At Smart Tutor, we take your privacy seriously. This policy explains how we coll
 
 ###### What Information We Collect ######
 
-When you submit an enquiry, we may collect:
-	•	Your name
-	•	Your email address
+When you submit an enquiry, we may collect: <br>
+	•	Your name <br>
+	•	Your email address <br>
 	•	Your phone number
 
 ###### How We Use Your Information ######
 
-We use this information to:
+We use this information to: <br>
 	•	Respond to your enquiry <br>
 	•	Provide details about our tutoring services <br>
-	•	Follow up regarding potential lessons <br>
+	•	Follow up regarding potential lessons
 
 We do not share or sell your information to third parties.
 
@@ -52,8 +52,8 @@ We will keep your information for as long as you are actively receiving tutoring
 
 ###### Your Rights ######
 
-You have the right to:
-	•	Request a copy of your data
+You have the right to: <br>
+	•	Request a copy of your data <br>
 	•	Ask us to delete or update your information
 
 To make a request, please contact us at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
