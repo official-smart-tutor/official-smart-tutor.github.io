@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "One-to-one Tutoring"
-        desc: "High quality, personalised tutoring targeting student's weak areas to help them achieve the best grades."
+        desc: "High quality, personalised tutoring targeting students' areas of development to help them achieve the best grades.
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Small Group teaching"
-        desc: "Recieve the same tutoring alongside other students at a reduced rate."
+        desc: "Receive the same high-quality tutoring in a collaborative group setting at a more competitive rate compared to one-on-one sessions.."
         icon: fas fa-users
       - title: "Revision Coaching"
         desc: "Teaching students effective study habits, note-taking, and memory techniques. Offered in one-to-one tutoring."
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
       ##### **How do the lessons work?** <br>
       Lessons are online via teams, in a 1-to-1 or group format, focusing on exam preparation. <br>
       ##### **What do I need for the lessons?** <br>
-      A stable internet connection, a notebook, and enthusiasm for learning! <br>
+      A stable internet connection, a computer, a notebook, and enthusiasm for learning! <br>
       ##### **Do you provide past paper practice?** <br>
       Yes! We use exam-style questions & past papers to boost confidence and performance. <br>
       ##### **How can I sign up for tutoring sessions?** <br>
