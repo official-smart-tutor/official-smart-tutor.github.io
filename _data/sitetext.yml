@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "High quality, personalised tutoring targeting students' areas of development to help them achieve the best grades."
         icon: fas fa-laptop #find more at https://fontawesome.com/icons
       - title: "Small Group teaching"
-        desc: "Receive the same high-quality tutoring in a collaborative group setting at a more competitive rate compared to one-on-one sessions.."
+        desc: "Receive the same high-quality tutoring in a collaborative group setting at a more competitive rate compared to one-on-one sessions."
         icon: fas fa-users
       - title: "Revision Mentoring"
         desc: "Teaching students effective study habits, note-taking, and memory techniques. Offered in one-to-one tutoring."
@@ -67,7 +67,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Why choose us?"
-    body: "At Smart Tutor, we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students study smarter, not harder, so they can achieve their best results with confidence."
+    body: "At Smart Tutor, we make exam prep clear, effective, and stress-free. Using smart strategies and affordable support, we help students **work smarter, NOT harder**, so they can achieve their best results with confidence."
     section: about
   
   #clients:
@@ -92,7 +92,7 @@ en: &DEFAULT_EN
     title: "FAQs"
     text: "Frequently Asked Questions"
     subtext: |
-      ##### **Who are your lessons for?** <br>
+      ##### **Who are our lessons for?** <br>
       Our lessons are designed for students in Years 7 to 11. Whether you're looking to get a head start on the curriculum or refine your exam technique, these sessions are tailored to help students of all levels to achieve their full potential. <br>
       ##### **How do the lessons work?** <br>
       Lessons are online via teams, in a 1-to-1 or group format, focusing on exam preparation. <br>
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
       ##### **Do you provide past paper practice?** <br>
       Yes! We use exam-style questions & past papers to boost confidence and performance. <br>
       ##### **How can I sign up for tutoring sessions?** <br>
-      You can sign up by sending us an enquiry through the contact form below requesting what subjects you would be interested in and we'll get back to you as soon as possible. <br>
+      You can sign up by sending us an enquiry through the contact form below requesting which subjects you would be interested in and we'll get back to you as soon as possible. <br>
       ##### **How much do the lessons cost?** <br>
       Prices vary depending on the type of lesson you choose. Please contact us for more information.
     section: team
