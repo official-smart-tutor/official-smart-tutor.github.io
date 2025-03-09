@@ -23,5 +23,19 @@
 	  <!-- Custom scripts for this template -->
 	  <script src="assets/js/agency.min.js"></script>
 
+    <!-- Facebook Pixel Tracking Script (fires only on form submission) -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var form = document.getElementById('contactForm');
+        if (form) {
+          form.addEventListener('submit', function(event) {
+            setTimeout(function() {
+              fbq('track', 'Lead');
+            }, 500);
+          });
+        }
+      });
+    </script>
+
   </body>
 </html>
