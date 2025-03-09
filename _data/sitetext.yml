@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Smart Tutor
     text: Online GCSE Tutoring
-    button: Tell Me More
-    buttonlink: "#services"
+    button: Book Now
+    buttonlink: "#contact"
 
   services:
     title: "Services"
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "We typically respond within 24 hours"
+    text: "Recieve a free consulatation!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
