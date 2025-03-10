@@ -107,7 +107,7 @@ en: &DEFAULT_EN
     section: team
 
   contact:
-    title: "Contact Us"
+    title: "Submite your Enquiry"
     text: "Recieve a free consulatation!"
     section: contact
     name: "Name*"
