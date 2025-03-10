@@ -108,7 +108,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Recieve a free consulatation!"
+    text: "Interested in our services? Receive a free consulatation!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
