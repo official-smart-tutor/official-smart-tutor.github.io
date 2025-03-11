@@ -1,0 +1,19 @@
+/* sass/contacts.scss */
+
+#contact-page {
+    background-color: #333;
+    background-image: url(assets/img/map-image.png);  /* Make sure to update the image path */
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 80px 0;
+    color: #fff;
+  }
+  
+  #contact-page .section-heading {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #fff;
+  }
+  
+  /* Add other custom styles here */
