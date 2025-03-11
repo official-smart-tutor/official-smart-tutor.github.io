@@ -108,7 +108,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "We’d love to hear from you! Please fill out the form below to get started with our tutoring services!"
+    text: "We'd love to hear from you! Simply fill out the form below, and we'll get in touch to help you get started with our tutoring services!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
