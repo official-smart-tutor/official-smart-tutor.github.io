@@ -4,75 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-<head>
-  <style>
-    /* Styling for the contact section */
-    section#contact {
-      background-color: #333; /* Replace $gray-900 with a direct color code */
-      background-image: url(https://github.com/official-smart-tutor/official-smart-tutor.github.io/blob/master/assets/img/map-image.png?raw=true); /* Replace $contact-image with actual image URL */
-      background-repeat: no-repeat;
-      background-position: center;
-      padding: 50px 0; /* Add some padding to make it look better */
-    }
-
-    .section-heading {
-      color: #fff; /* Replace $white with the color code */
-      font-size: 32px;
-      font-weight: bold;
-    }
-
-    .form-group {
-      margin-bottom: 25px;
-    }
-
-    .form-group input,
-    .form-group textarea {
-      padding: 20px;
-      width: 100%;
-      border-radius: 5px;
-      border: 1px solid #ccc;
-    }
-
-    input.form-control {
-      height: auto;
-    }
-
-    textarea.form-control {
-      height: 248px;
-    }
-
-    .form-control:focus {
-      border-color: #007bff; /* Replace $primary with an actual color like blue */
-      box-shadow: none;
-    }
-
-    /* Placeholder styling */
-    ::-webkit-input-placeholder {
-      font-weight: 700;
-      color: #888; /* Replace $gray-400 with a gray color */
-    }
-
-    :-moz-placeholder {
-      font-weight: 700;
-      color: #888; /* Replace $gray-400 */
-    }
-
-    ::-moz-placeholder {
-      font-weight: 700;
-      color: #888; /* Replace $gray-400 */
-    }
-
-    :-ms-input-placeholder {
-      font-weight: 700;
-      color: #888; /* Replace $gray-400 */
-    }
-  </style>
-</head>
-    
-
 <!-- Contact -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="page-section" id="{{ site.data.sitetext[site.locale].contact.section | default: "contact" }}">
+<section class="page-section" id="contact-page">  <!-- Here is the added ID -->
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -133,7 +67,7 @@ permalink: /contact/
   </div>
 </section>
 {% else %}
-<section class="page-section" id="{{ site.data.sitetext.contact.section | default: "contact" }}">
+<section class="page-section" id="contact-page">  <!-- Here is the added ID -->
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
