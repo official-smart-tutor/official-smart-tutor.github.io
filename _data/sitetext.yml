@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Smart Tutor
     text: Online GCSE Tutoring
-    button: Book Now
-    buttonlink: "#contact"
+    button: Learn More
+    buttonlink: "#services"
 
   services:
     title: "Services"
